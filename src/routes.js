@@ -35,7 +35,7 @@ const {
     {
       method: '*',
       path: '/{any*}',
-      handler: () => 'Halaman tidak ditemukan',
+      handler: () => 'Halaman tidak dapat ditemukan',
     },
   ];
   
